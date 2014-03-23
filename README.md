@@ -1,6 +1,6 @@
 # Ask Me Anything
 
-I am the founder of DNSimple, developer, speaker, father and expatriate living in France. 
+I am the founder of [DNSimple](https://dnsimple.com), [developer](https://github.com/aeden/), [speaker](http://lanyrd.com/profile/aeden/), father and expatriate living in France.
 
 If you need support for DNSimple I recommend going to http://support.dnsimple.com or emailing support@dnsimple.com directly.
 
